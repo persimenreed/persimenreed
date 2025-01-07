@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Featured Projects
-- [Project Name](https://github.com/persimenreed/Hex-winner-prediction):  
+- [Hex winner prediction](https://github.com/persimenreed/Hex-winner-prediction):  
   This project showcase how Graph Tsetlin Machine (GTM) can be used to learn patterns and predict a winner of the game board Hex 
-- [Another Project](https://github.com/persimenreed/Stocknet-predictions):  
+- [Stock prediction using RNN](https://github.com/persimenreed/Stocknet-predictions):  
   In this project different recurrent neural networks (RNN) were used in an attempt to predict the direction of stock prices for the StockNet dataset
